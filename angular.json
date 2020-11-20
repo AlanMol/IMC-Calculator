@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IMC-Calculator"
+    }
+  },
+  "defaultProject": "IMC-Calculator",
+  "cli": {
+    "analytics": false
+  }
 }
