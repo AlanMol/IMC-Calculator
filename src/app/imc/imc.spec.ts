@@ -3,9 +3,6 @@ import { imc } from "./imc"
 describe('imc unit tests', () => {
   
 
- 
- 
-
     it(' 15 years, 50kg,165 m = 18.36547291092746', () => {
         // Pattern AAA (Arrange - Act - Assert)
 
@@ -51,4 +48,3 @@ describe('imc unit tests', () => {
     expect(result).toBe(23.661438615467823);
   })
 
-})
