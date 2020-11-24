@@ -1,1 +1,5 @@
-[1123/224733.880:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+
+[1122/000808.939:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ALANMO~1\AppData\Local\Temp\karma-40682864\Crashpad\attachments\f602067a-69bc-411e-9b25-50d5572cf547: El sistema no puede encontrar la ruta especificada. (0x3)
+[1122/001446.031:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1122/074616.897:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+
